@@ -54,7 +54,7 @@
     "mini-css-extract-plugin": "^0.5.0",
     "node-notifier": "^5.4.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
-    "postcss": "^7.0.14",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "progress-bar-webpack-plugin": "^1.12.1",
     "style-loader": "^0.23.1",
